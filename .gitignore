@@ -1,0 +1,5 @@
+__pycache__/
+venv/
+Model/final_model.h5
+.env
+BuildModel.py
