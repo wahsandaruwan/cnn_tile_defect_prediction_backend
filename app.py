@@ -41,7 +41,7 @@ def index():
 
     if prediction == 0:
         final = "Color Dot"
-    if prediction == 1:
+    elif prediction == 1:
         final = "Color Patch"
     else:
         final = "Original"
